@@ -33,21 +33,13 @@ Portfolio-Trade-Order-Compliance-Checker/
 └── LICENSE
 ```
 
-## How to Run
+## Sample Output
 
-1. Install Python 3.x.
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/tanishaverma-epam/Portfolio-Trade-Order-Compliance-Execution-Checker.git
-   ```
-3. Navigate to the project directory:
-   ```bash
-   cd Portfolio-Trade-Order-Compliance-Execution-Checker
-   ```
-4. Run the application:
-   ```bash
-   python main.py
-   ```
+### Output 1 – Trade Validation Results
+![Trade Validation Output](Output1.png)
+
+### Output 2 – Position Concentration and Compliance Results
+![Compliance Check Output](Output-2.png)
 
 ## Output
 Each proposed trade is evaluated and produces:
