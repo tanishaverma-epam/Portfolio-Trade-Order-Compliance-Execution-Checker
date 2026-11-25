@@ -39,7 +39,7 @@ Portfolio-Trade-Order-Compliance-Checker/
 ![Trade Validation Output](Output1.png)
 
 ### Output 2 – Position Concentration and Compliance Results
-![Compliance Check Output](Output-2.png)
+![Compliance Check Output](Output2.png)
 
 ## Output
 Each proposed trade is evaluated and produces:
